@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Lab/01. Hello SoftUni/cmake-build-debug",
+	"dir-cur-src" : "/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Lab/01. Hello SoftUni",
+	"dir-top-bld" : "/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Lab/01. Hello SoftUni/cmake-build-debug",
+	"dir-top-src" : "/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Lab/01. Hello SoftUni",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Lab/01. Hello SoftUni/cmake-build-debug/CMakeFiles/01__Hello_SoftUni.dir"
+}

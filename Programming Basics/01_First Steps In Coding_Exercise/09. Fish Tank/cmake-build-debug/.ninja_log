@@ -1,0 +1,13 @@
+# ninja log v6
+1	45	1738532351568626180	CMakeFiles/09__Fish_Tank.dir/main.cpp.o.ddi	afd85871e673aea4
+45	48	1738532351615626410	CMakeFiles/09__Fish_Tank.dir/CXX.dd	65d2f05d275e9014
+45	48	1738532351615626410	/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Exercise/09. Fish Tank/cmake-build-debug/CMakeFiles/09__Fish_Tank.dir/CXXModules.json	65d2f05d275e9014
+45	48	1738532351615626410	CMakeFiles/09__Fish_Tank.dir/main.cpp.o.modmap	65d2f05d275e9014
+48	307	1738532351615626410	CMakeFiles/09__Fish_Tank.dir/main.cpp.o	e46799bae44d4daa
+307	347	1738532351874627676	09__Fish_Tank	27a18943e4450cc7
+1	49	1738532386293796008	CMakeFiles/09__Fish_Tank.dir/main.cpp.o.ddi	afd85871e673aea4
+49	52	1738532386341796243	CMakeFiles/09__Fish_Tank.dir/CXX.dd	65d2f05d275e9014
+49	52	1738532386341796243	/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Exercise/09. Fish Tank/cmake-build-debug/CMakeFiles/09__Fish_Tank.dir/CXXModules.json	65d2f05d275e9014
+49	52	1738532386341796243	CMakeFiles/09__Fish_Tank.dir/main.cpp.o.modmap	65d2f05d275e9014
+53	317	1738532386345796262	CMakeFiles/09__Fish_Tank.dir/main.cpp.o	e46799bae44d4daa
+317	355	1738532386609797553	09__Fish_Tank	27a18943e4450cc7

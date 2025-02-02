@@ -1,0 +1,25 @@
+# ninja log v6
+1	47	1738531936888598296	CMakeFiles/08__Basketball_Equipment.dir/main.cpp.o.ddi	d6730f01a97958d
+47	50	1738531936937598536	CMakeFiles/08__Basketball_Equipment.dir/CXX.dd	829365c6589a35e0
+47	50	1738531936937598536	/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Exercise/08. Basketball Equipment/cmake-build-debug/CMakeFiles/08__Basketball_Equipment.dir/CXXModules.json	829365c6589a35e0
+47	50	1738531936937598536	CMakeFiles/08__Basketball_Equipment.dir/main.cpp.o.modmap	829365c6589a35e0
+50	303	1738531936937598536	CMakeFiles/08__Basketball_Equipment.dir/main.cpp.o	c89d94a25258353b
+304	344	1738531937191599778	08__Basketball_Equipment	b6d75d177ddc36d7
+1	49	1738532016998990065	CMakeFiles/08__Basketball_Equipment.dir/main.cpp.o.ddi	d6730f01a97958d
+49	53	1738532017046990299	CMakeFiles/08__Basketball_Equipment.dir/CXX.dd	829365c6589a35e0
+49	53	1738532017046990299	/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Exercise/08. Basketball Equipment/cmake-build-debug/CMakeFiles/08__Basketball_Equipment.dir/CXXModules.json	829365c6589a35e0
+49	53	1738532017046990299	CMakeFiles/08__Basketball_Equipment.dir/main.cpp.o.modmap	829365c6589a35e0
+54	317	1738532017051990324	CMakeFiles/08__Basketball_Equipment.dir/main.cpp.o	c89d94a25258353b
+318	358	1738532017315991615	08__Basketball_Equipment	b6d75d177ddc36d7
+1	47	1738532098384388035	CMakeFiles/08__Basketball_Equipment.dir/main.cpp.o.ddi	d6730f01a97958d
+47	51	1738532098430388260	CMakeFiles/08__Basketball_Equipment.dir/CXX.dd	829365c6589a35e0
+47	51	1738532098430388260	/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Exercise/08. Basketball Equipment/cmake-build-debug/CMakeFiles/08__Basketball_Equipment.dir/CXXModules.json	829365c6589a35e0
+47	51	1738532098430388260	CMakeFiles/08__Basketball_Equipment.dir/main.cpp.o.modmap	829365c6589a35e0
+51	317	1738532098434388280	CMakeFiles/08__Basketball_Equipment.dir/main.cpp.o	c89d94a25258353b
+317	356	1738532098700389581	08__Basketball_Equipment	b6d75d177ddc36d7
+1	48	1738532137568579675	CMakeFiles/08__Basketball_Equipment.dir/main.cpp.o.ddi	d6730f01a97958d
+48	51	1738532137615579905	CMakeFiles/08__Basketball_Equipment.dir/CXX.dd	829365c6589a35e0
+48	51	1738532137615579905	/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Exercise/08. Basketball Equipment/cmake-build-debug/CMakeFiles/08__Basketball_Equipment.dir/CXXModules.json	829365c6589a35e0
+48	51	1738532137615579905	CMakeFiles/08__Basketball_Equipment.dir/main.cpp.o.modmap	829365c6589a35e0
+51	319	1738532137618579920	CMakeFiles/08__Basketball_Equipment.dir/main.cpp.o	c89d94a25258353b
+319	362	1738532137886581230	08__Basketball_Equipment	b6d75d177ddc36d7

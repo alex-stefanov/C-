@@ -1,0 +1,13 @@
+# ninja log v6
+1	50	1738527584593611118	CMakeFiles/05__Greeting_by_Name.dir/main.cpp.o.ddi	c3e61c9dde8d2eb1
+50	55	1738527584646611366	CMakeFiles/05__Greeting_by_Name.dir/CXX.dd	ac7248be5637974b
+50	55	1738527584646611366	/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Lab/05. Greeting by Name/cmake-build-debug/CMakeFiles/05__Greeting_by_Name.dir/CXXModules.json	ac7248be5637974b
+50	55	1738527584646611366	CMakeFiles/05__Greeting_by_Name.dir/main.cpp.o.modmap	ac7248be5637974b
+55	339	1738527584647611370	CMakeFiles/05__Greeting_by_Name.dir/main.cpp.o	5ab084c9f12d2aa
+340	388	1738527584932612701	05__Greeting_by_Name	f2ce7e7cab27e78b
+3	104	1738527597796672760	CMakeFiles/05__Greeting_by_Name.dir/main.cpp.o.ddi	c3e61c9dde8d2eb1
+104	110	1738527597897673231	CMakeFiles/05__Greeting_by_Name.dir/CXX.dd	ac7248be5637974b
+104	110	1738527597897673231	/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Lab/05. Greeting by Name/cmake-build-debug/CMakeFiles/05__Greeting_by_Name.dir/CXXModules.json	ac7248be5637974b
+104	110	1738527597897673231	CMakeFiles/05__Greeting_by_Name.dir/main.cpp.o.modmap	ac7248be5637974b
+110	488	1738527597903673259	CMakeFiles/05__Greeting_by_Name.dir/main.cpp.o	5ab084c9f12d2aa
+488	538	1738527598281675024	05__Greeting_by_Name	f2ce7e7cab27e78b

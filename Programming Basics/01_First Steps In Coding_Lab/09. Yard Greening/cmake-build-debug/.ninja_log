@@ -1,0 +1,7 @@
+# ninja log v6
+1	98	1738528679122228425	CMakeFiles/09__Yard_Greening.dir/main.cpp.o.ddi	b726c0a5677c927f
+98	103	1738528679223229031	CMakeFiles/09__Yard_Greening.dir/CXX.dd	c48d9fd7e56e9903
+98	103	1738528679223229031	/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Lab/09. Yard Greening/cmake-build-debug/CMakeFiles/09__Yard_Greening.dir/CXXModules.json	c48d9fd7e56e9903
+98	103	1738528679223229031	CMakeFiles/09__Yard_Greening.dir/main.cpp.o.modmap	c48d9fd7e56e9903
+103	613	1738528679224229037	CMakeFiles/09__Yard_Greening.dir/main.cpp.o	eab422280d5ad23f
+614	681	1738528679735232105	09__Yard_Greening	ee146f90eabbddf0

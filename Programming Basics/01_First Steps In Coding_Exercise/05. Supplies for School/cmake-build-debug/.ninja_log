@@ -1,0 +1,13 @@
+# ninja log v6
+2	102	1738530280301024321	CMakeFiles/05__Supplies_for_School.dir/main.cpp.o.ddi	d3680ba3c26d1c92
+102	108	1738530280406024882	CMakeFiles/05__Supplies_for_School.dir/CXX.dd	1942fecd15bfbd9
+102	108	1738530280406024882	/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Exercise/05. Supplies for School/cmake-build-debug/CMakeFiles/05__Supplies_for_School.dir/CXXModules.json	1942fecd15bfbd9
+102	108	1738530280406024882	CMakeFiles/05__Supplies_for_School.dir/main.cpp.o.modmap	1942fecd15bfbd9
+108	613	1738530280407024887	CMakeFiles/05__Supplies_for_School.dir/main.cpp.o	1a146e14ccf9fde5
+613	661	1738530280912027585	05__Supplies_for_School	d652188a535d4dcd
+3	108	1738530338919337498	CMakeFiles/05__Supplies_for_School.dir/main.cpp.o.ddi	d3680ba3c26d1c92
+108	113	1738530339024338059	CMakeFiles/05__Supplies_for_School.dir/CXX.dd	1942fecd15bfbd9
+108	113	1738530339024338059	/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Exercise/05. Supplies for School/cmake-build-debug/CMakeFiles/05__Supplies_for_School.dir/CXXModules.json	1942fecd15bfbd9
+108	113	1738530339024338059	CMakeFiles/05__Supplies_for_School.dir/main.cpp.o.modmap	1942fecd15bfbd9
+113	518	1738530339029338086	CMakeFiles/05__Supplies_for_School.dir/main.cpp.o	1a146e14ccf9fde5
+518	562	1738530339435340255	05__Supplies_for_School	d652188a535d4dcd

@@ -1,0 +1,7 @@
+# ninja log v6
+1	104	1738529572887244731	CMakeFiles/03__Deposit_Calculator.dir/main.cpp.o.ddi	b119cf95df3fe4d9
+105	110	1738529572995245308	CMakeFiles/03__Deposit_Calculator.dir/CXX.dd	6e1cf023bdd1abe8
+105	110	1738529572995245308	/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Exercise/03. Deposit Calculator/cmake-build-debug/CMakeFiles/03__Deposit_Calculator.dir/CXXModules.json	6e1cf023bdd1abe8
+105	110	1738529572995245308	CMakeFiles/03__Deposit_Calculator.dir/main.cpp.o.modmap	6e1cf023bdd1abe8
+110	656	1738529572996245314	CMakeFiles/03__Deposit_Calculator.dir/main.cpp.o	4a72feeb4468608
+658	763	1738529573544248241	03__Deposit_Calculator	c505b201d51b7cc7

@@ -1,0 +1,7 @@
+# ninja log v6
+1	101	1738528091114075262	CMakeFiles/07__Projects_Creation.dir/main.cpp.o.ddi	e51e73e261892d75
+101	106	1738528091219075783	CMakeFiles/07__Projects_Creation.dir/CXX.dd	d2a09a0a2a75ccf
+101	106	1738528091219075783	/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Lab/07. Projects Creation/cmake-build-debug/CMakeFiles/07__Projects_Creation.dir/CXXModules.json	d2a09a0a2a75ccf
+101	106	1738528091219075783	CMakeFiles/07__Projects_Creation.dir/main.cpp.o.modmap	d2a09a0a2a75ccf
+106	470	1738528091220075788	CMakeFiles/07__Projects_Creation.dir/main.cpp.o	98600f7cab9868bc
+471	522	1738528091584077593	07__Projects_Creation	4b2a89b303e5067d

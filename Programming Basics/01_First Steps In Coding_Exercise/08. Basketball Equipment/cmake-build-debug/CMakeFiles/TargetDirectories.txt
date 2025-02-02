@@ -1,0 +1,3 @@
+/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Exercise/08. Basketball Equipment/cmake-build-debug/CMakeFiles/08__Basketball_Equipment.dir
+/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Exercise/08. Basketball Equipment/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Exercise/08. Basketball Equipment/cmake-build-debug/CMakeFiles/rebuild_cache.dir

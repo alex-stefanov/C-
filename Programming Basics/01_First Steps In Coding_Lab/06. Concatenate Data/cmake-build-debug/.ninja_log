@@ -1,0 +1,7 @@
+# ninja log v6
+2	97	1738527809630689798	CMakeFiles/06__Concatenate_Data.dir/main.cpp.o.ddi	846e14654a2abf8a
+97	102	1738527809730690285	CMakeFiles/06__Concatenate_Data.dir/CXX.dd	ea1d65d1d0770132
+97	102	1738527809730690285	/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Lab/06. Concatenate Data/cmake-build-debug/CMakeFiles/06__Concatenate_Data.dir/CXXModules.json	ea1d65d1d0770132
+97	102	1738527809730690285	CMakeFiles/06__Concatenate_Data.dir/main.cpp.o.modmap	ea1d65d1d0770132
+103	429	1738527809731690290	CMakeFiles/06__Concatenate_Data.dir/main.cpp.o	54c2cac42fc407f8
+430	474	1738527810058691883	06__Concatenate_Data	70fedb6bd67c1f8

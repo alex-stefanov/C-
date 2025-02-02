@@ -1,0 +1,7 @@
+# ninja log v6
+1	49	1738531504516466194	CMakeFiles/07__Food_Delivery.dir/main.cpp.o.ddi	f36d317ee61cf381
+50	53	1738531504567466461	CMakeFiles/07__Food_Delivery.dir/CXX.dd	4c9d3cf2c684a220
+50	53	1738531504567466461	/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Exercise/07. Food Delivery/cmake-build-debug/CMakeFiles/07__Food_Delivery.dir/CXXModules.json	4c9d3cf2c684a220
+50	53	1738531504567466461	CMakeFiles/07__Food_Delivery.dir/main.cpp.o.modmap	4c9d3cf2c684a220
+53	305	1738531504568466467	CMakeFiles/07__Food_Delivery.dir/main.cpp.o	2db1796fb3c016fa
+306	343	1738531504821467793	07__Food_Delivery	bd26f9a0c70337f

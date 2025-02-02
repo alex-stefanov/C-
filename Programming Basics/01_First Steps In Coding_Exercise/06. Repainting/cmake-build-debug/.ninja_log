@@ -1,0 +1,7 @@
+# ninja log v6
+1	46	1738531131399509989	CMakeFiles/06__Repainting.dir/main.cpp.o.ddi	3927c29857e91fb
+46	50	1738531131448510246	CMakeFiles/06__Repainting.dir/CXX.dd	b4bdfeade356ee80
+46	50	1738531131448510246	/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Exercise/06. Repainting/cmake-build-debug/CMakeFiles/06__Repainting.dir/CXXModules.json	b4bdfeade356ee80
+46	50	1738531131448510246	CMakeFiles/06__Repainting.dir/main.cpp.o.modmap	b4bdfeade356ee80
+50	312	1738531131448510246	CMakeFiles/06__Repainting.dir/main.cpp.o	f7f723facfe9498e
+312	350	1738531131710511619	06__Repainting	b59c1c6fdb1e1a7d

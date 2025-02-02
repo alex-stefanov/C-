@@ -1,0 +1,3 @@
+/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Exercise/02. Radians to Degrees/cmake-build-debug/CMakeFiles/02__Radians_to_Degrees.dir
+/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Exercise/02. Radians to Degrees/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Exercise/02. Radians to Degrees/cmake-build-debug/CMakeFiles/rebuild_cache.dir
