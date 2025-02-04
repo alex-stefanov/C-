@@ -1,7 +1,0 @@
-# ninja log v6
-1	134	1738529341124991897	CMakeFiles/02__Radians_to_Degrees.dir/main.cpp.o.ddi	212a88f28088ad48
-135	139	1738529341261992642	CMakeFiles/02__Radians_to_Degrees.dir/CXX.dd	3de55b408f649cef
-135	139	1738529341261992642	/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Exercise/02. Radians to Degrees/cmake-build-debug/CMakeFiles/02__Radians_to_Degrees.dir/CXXModules.json	3de55b408f649cef
-135	139	1738529341261992642	CMakeFiles/02__Radians_to_Degrees.dir/main.cpp.o.modmap	3de55b408f649cef
-139	515	1738529341261992642	CMakeFiles/02__Radians_to_Degrees.dir/main.cpp.o	8e187b483e88d866
-515	572	1738529341637994689	02__Radians_to_Degrees	783b75aab4daeab7

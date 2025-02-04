@@ -1,3 +1,0 @@
-ninja_dyndep_version = 1.0
-build CMakeFiles/07__Food_Delivery.dir/main.cpp.o: dyndep
-

@@ -1,3 +1,0 @@
-/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Exercise/05. Supplies for School/cmake-build-debug/CMakeFiles/05__Supplies_for_School.dir
-/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Exercise/05. Supplies for School/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Exercise/05. Supplies for School/cmake-build-debug/CMakeFiles/rebuild_cache.dir

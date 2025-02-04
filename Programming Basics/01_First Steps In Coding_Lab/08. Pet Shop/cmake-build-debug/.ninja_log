@@ -1,7 +1,0 @@
-# ninja log v6
-1	106	1738528342386321472	CMakeFiles/08__Pet_Shop.dir/main.cpp.o.ddi	24219a1f69aabdd8
-107	111	1738528342496322017	CMakeFiles/08__Pet_Shop.dir/CXX.dd	ae40857a406e275b
-107	111	1738528342496322017	/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Lab/08. Pet Shop/cmake-build-debug/CMakeFiles/08__Pet_Shop.dir/CXXModules.json	ae40857a406e275b
-107	111	1738528342496322017	CMakeFiles/08__Pet_Shop.dir/main.cpp.o.modmap	ae40857a406e275b
-112	580	1738528342497322022	CMakeFiles/08__Pet_Shop.dir/main.cpp.o	704fccaf45cd8c8c
-580	631	1738528342965324343	08__Pet_Shop	af7d95fa671f4c5a

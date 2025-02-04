@@ -1,7 +1,0 @@
-# ninja log v6
-1	67	1738529895531968596	CMakeFiles/04__Vacation_Books_List.dir/main.cpp.o.ddi	32c2b45c2bb743f7
-67	70	1738529895600968965	CMakeFiles/04__Vacation_Books_List.dir/CXX.dd	e975636531a8fce5
-67	70	1738529895600968965	/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Exercise/04. Vacation Books List/cmake-build-debug/CMakeFiles/04__Vacation_Books_List.dir/CXXModules.json	e975636531a8fce5
-67	70	1738529895600968965	CMakeFiles/04__Vacation_Books_List.dir/main.cpp.o.modmap	e975636531a8fce5
-71	344	1738529895601968970	CMakeFiles/04__Vacation_Books_List.dir/main.cpp.o	13f1c45169256cf9
-345	387	1738529895875970434	04__Vacation_Books_List	e137d7f9851ba035

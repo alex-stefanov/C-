@@ -1,7 +1,0 @@
-# ninja log v6
-1	107	1738529079788569381	CMakeFiles/01__USD_to_BGN.dir/main.cpp.o.ddi	fd03079aae3f0e2e
-107	114	1738529079900569991	CMakeFiles/01__USD_to_BGN.dir/CXX.dd	835c981ee78c1335
-107	114	1738529079900569991	/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Exercise/01. USD to BGN/cmake-build-debug/CMakeFiles/01__USD_to_BGN.dir/CXXModules.json	835c981ee78c1335
-107	114	1738529079900569991	CMakeFiles/01__USD_to_BGN.dir/main.cpp.o.modmap	835c981ee78c1335
-114	667	1738529079901569996	CMakeFiles/01__USD_to_BGN.dir/main.cpp.o	bc5bf13b3e4c5f57
-668	725	1738529080455573012	01__USD_to_BGN	7b778e0e6664d22c

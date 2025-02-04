@@ -1,7 +1,0 @@
-# ninja log v6
-1	53	1738527187662692042	CMakeFiles/01__Hello_SoftUni.dir/main.cpp.o.ddi	8e795bfc1b16fff2
-53	55	1738527187716692310	CMakeFiles/01__Hello_SoftUni.dir/CXX.dd	45d1cc3bb8e74653
-53	55	1738527187716692310	/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Lab/01. Hello SoftUni/cmake-build-debug/CMakeFiles/01__Hello_SoftUni.dir/CXXModules.json	45d1cc3bb8e74653
-53	55	1738527187716692310	CMakeFiles/01__Hello_SoftUni.dir/main.cpp.o.modmap	45d1cc3bb8e74653
-56	331	1738527187717692315	CMakeFiles/01__Hello_SoftUni.dir/main.cpp.o	422f2326a711474c
-333	377	1738527187994693688	01__Hello_SoftUni	9b2e0d5879a822

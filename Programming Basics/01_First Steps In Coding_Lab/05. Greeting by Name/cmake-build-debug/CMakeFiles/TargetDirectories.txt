@@ -1,3 +1,0 @@
-/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Lab/05. Greeting by Name/cmake-build-debug/CMakeFiles/05__Greeting_by_Name.dir
-/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Lab/05. Greeting by Name/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Lab/05. Greeting by Name/cmake-build-debug/CMakeFiles/rebuild_cache.dir

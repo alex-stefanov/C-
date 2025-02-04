@@ -1,3 +1,0 @@
-ninja_dyndep_version = 1.0
-build CMakeFiles/03__Deposit_Calculator.dir/main.cpp.o: dyndep
-

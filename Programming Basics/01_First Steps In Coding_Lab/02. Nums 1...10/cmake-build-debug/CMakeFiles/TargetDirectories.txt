@@ -1,3 +1,0 @@
-/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Lab/02. Nums 1...10/cmake-build-debug/CMakeFiles/02__Nums_1___10.dir
-/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Lab/02. Nums 1...10/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Lab/02. Nums 1...10/cmake-build-debug/CMakeFiles/rebuild_cache.dir

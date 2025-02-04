@@ -1,3 +1,0 @@
-/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Exercise/03. Deposit Calculator/cmake-build-debug/CMakeFiles/03__Deposit_Calculator.dir
-/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Exercise/03. Deposit Calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Exercise/03. Deposit Calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir

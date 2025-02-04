@@ -1,3 +1,0 @@
-/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Exercise/09. Fish Tank/cmake-build-debug/CMakeFiles/09__Fish_Tank.dir
-/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Exercise/09. Fish Tank/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Exercise/09. Fish Tank/cmake-build-debug/CMakeFiles/rebuild_cache.dir

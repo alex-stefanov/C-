@@ -1,7 +1,0 @@
-# ninja log v6
-1	102	1738527488854164140	CMakeFiles/04__Inches_to_Centimeters.dir/main.cpp.o.ddi	30c64ecdb345b0c0
-103	106	1738527488959164630	CMakeFiles/04__Inches_to_Centimeters.dir/CXX.dd	16018b8ec49aabbe
-103	106	1738527488959164630	/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps In Coding_Lab/04. Inches to Centimeters/cmake-build-debug/CMakeFiles/04__Inches_to_Centimeters.dir/CXXModules.json	16018b8ec49aabbe
-103	106	1738527488959164630	CMakeFiles/04__Inches_to_Centimeters.dir/main.cpp.o.modmap	16018b8ec49aabbe
-106	444	1738527488959164630	CMakeFiles/04__Inches_to_Centimeters.dir/main.cpp.o	2199523db79a1b50
-444	499	1738527489298166213	04__Inches_to_Centimeters	64539ebe2788382f
