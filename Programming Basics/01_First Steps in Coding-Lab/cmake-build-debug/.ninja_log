@@ -1,7 +1,0 @@
-# ninja log v6
-1	87	1739451239421637491	CMakeFiles/01_First_Steps_in_Coding_Lab.dir/main.cpp.o.ddi	a627cf6b98f3cd44
-87	91	1739451239511646078	CMakeFiles/01_First_Steps_in_Coding_Lab.dir/CXX.dd	a2763ededa06fc7
-87	91	1739451239511646078	/home/alex-stefanov/Desktop/C++/Programming Basics/01_First Steps in Coding-Lab/cmake-build-debug/CMakeFiles/01_First_Steps_in_Coding_Lab.dir/CXXModules.json	a2763ededa06fc7
-87	91	1739451239511646078	CMakeFiles/01_First_Steps_in_Coding_Lab.dir/main.cpp.o.modmap	a2763ededa06fc7
-91	531	1739451239511646078	CMakeFiles/01_First_Steps_in_Coding_Lab.dir/main.cpp.o	d2b0e618f633c12c
-532	605	1739451239952688153	01_First_Steps_in_Coding_Lab	91c2ae68ed0f8f2c
